@@ -1,10 +1,15 @@
-This is Tsz Shing Yu (Henry)'s GitHub profile
-- Studying BSc(Hons) Artificial Intelligence at The University of Manchester
-- Link to current projects
-	- https://github.com/henrytsyu/python-coursework
-	- https://gitlab.cs.man.ac.uk/j14769hd/unihack
-	- https://github.com/ManchesterStingerMotorsports/Optimal-Path-Model
-- Programming skills
-	- Proficient in Python
-	- Currently learning Java, JavaScript, HTML, ARM Assembly
-- Contact me through henrytsyu@gmail.com
+# Summary
+
+Meticulous and creative software developer studying Computing at Imperial College London. Summer intern in software development at Pearson. Diligent leader valuing quality, teamwork and efficiency. Enthusiast in trading, including technical analysis. No visa sponsorship required for UK.
+
+## Skills
+
+- **Languages**: C, Java, JavaScript, TypeScript, SQL, Python, Haskell
+- **Frameworks**: React, Express, Spring, MySQL, TensorFlow
+- **Platforms**: AWS, Docker, Git, Terraform, Jenkis, Linux, Android Studio, Firebase
+
+## Experience
+
+**Pearson Education Limited** | Intern UK - Associate Software Developer
+
+**Sengital Limited** | Software Engineering Internship
