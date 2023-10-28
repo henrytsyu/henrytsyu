@@ -1,6 +1,6 @@
 # Summary
 
-Meticulous and creative software developer studying Computing at Imperial College London. Summer intern in software development at Pearson. Diligent leader valuing quality, teamwork and efficiency. Enthusiast in trading, including technical analysis. No visa sponsorship required for UK.
+Meticulous and innovative software developer studying Computing 2nd Year at Imperial College London. Diligent leader valuing quality, teamwork and efficiency. Proficient in Java, C and Python. Experienced in React, Spring and MySQL. Fluent bilingual in English and Chinese. No visa sponsorship required for UK.
 
 ## Skills
 
