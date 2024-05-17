@@ -1,6 +1,6 @@
 # Summary
 
-Meticulous and innovative software developer studying Computing 2nd Year at Imperial College London. Diligent leader valuing quality, teamwork and efficiency. Proficient in Java, C and Python. Experienced in React, Spring and MySQL. Fluent bilingual in English and Chinese. No visa sponsorship required for UK.
+Incoming SWE Intern @ Revolut | Penultimate CS @ Imperial | Hong Kong Scholar
 
 ## Skills
 
@@ -10,6 +10,8 @@ Meticulous and innovative software developer studying Computing 2nd Year at Impe
 
 ## Experience
 
-**Pearson Education Limited** | Intern UK - Associate Software Developer
+**Revolut** | Incoming Software Engineer Intern
+
+**Pearson** | Intern UK - Associate Software Developer
 
 **Sengital Limited** | Software Engineering Internship
