@@ -1,6 +1,6 @@
 # Summary
 
-Incoming SWE Intern @ Revolut | Penultimate CS @ Imperial | Hong Kong Scholar
+Revolut SWE Intern | Imperial Computing
 
 ## Skills
 
@@ -10,7 +10,7 @@ Incoming SWE Intern @ Revolut | Penultimate CS @ Imperial | Hong Kong Scholar
 
 ## Experience
 
-**Revolut** | Incoming Software Engineer Intern
+**Revolut** | Software Engineer Intern
 
 **Pearson** | Intern UK - Associate Software Developer
 
