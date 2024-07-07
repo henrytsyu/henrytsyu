@@ -6,7 +6,7 @@ Revolut SWE Intern | Imperial Computing
 
 - **Languages**: C, Java, JavaScript, TypeScript, SQL, Python, Haskell
 - **Frameworks**: React, Express, Spring, MySQL, TensorFlow
-- **Platforms**: AWS, Docker, Git, Terraform, Jenkis, Linux, Android Studio, Firebase
+- **Platforms**: AWS, Docker, Git, Terraform, Jenkins, Linux, Android Studio, Firebase
 
 ## Experience
 
