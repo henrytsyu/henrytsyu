@@ -1,6 +1,6 @@
 # Summary
 
-Revolut SWE Intern | Imperial Computing
+Balyasny Asset Management SWE Intern | Imperial Computing
 
 ## Skills
 
