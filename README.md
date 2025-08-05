@@ -4,11 +4,13 @@ Balyasny Asset Management SWE Intern | Imperial Computing
 
 ## Skills
 
-- **Languages**: C, Java, JavaScript, TypeScript, SQL, Python, Haskell
-- **Frameworks**: React, Express, Spring, MySQL, TensorFlow
+- **Languages**: Python, Java, C, JavaScript, TypeScript, SQL, Haskell
+- **Frameworks**: FastAPI, React, Express, Spring, PostgreSQL, TensorFlow
 - **Platforms**: AWS, Docker, Git, Terraform, Jenkins, Linux, Android Studio, Firebase
 
 ## Experience
+
+**Balyasny Asset Management** | Summer Associate, Software Engineering
 
 **Revolut** | Software Engineer Intern
 
